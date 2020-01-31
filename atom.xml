@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>so实用</title>
   
-  <subtitle>你想要的，这你都会有</subtitle>
-  <link href="%5C/atom.xml" rel="self"/>
+  <subtitle>你想要的，这里都会有</subtitle>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2020-01-31T07:59:24.530Z</updated>
